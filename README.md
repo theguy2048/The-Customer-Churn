@@ -5,3 +5,4 @@ Marketing costs to acquire new customers are high. Therefore, it is important to
 It has a direct impact on the ability to expand the company;
 etc.
 In this project our goal is to predict the probability of a customer is likely to churn using machine learning techniques.
+To make this project further more interesting I have 3 juypter notebook each with there own uniqueness. The 
